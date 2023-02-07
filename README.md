@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/theashwing" target="blank"><img src="https://img.shields.io/twitter/follow/theashwing?logo=twitter&style=for-the-badge" alt="theashwing" /></a> </p>
 
 # 💫 About Me:
-🔭  I’m currently working on  flutter<br><br>🌱  I’m currently learning Flutter, Dart<br><br> 👨‍💻 All of my projects are available at https://www.behance.net/ashwingfx<br><br> 💬 Ask me about Flutter, Dart, Graphic Design, 3DsMax, AutoCad<br><br> 📫 How to reach me +91 9400799048, ashwingfx@gmail.com
+🔭  I’m currently working on  flutter<br><br>🌱  I’m currently learning Flutter, Dart<br><br> 👨‍💻 All of my projects are available at https://www.behance.net/ashwingfx<br><br> 💬 Ask me about Flutter, Dart, Graphic Design, 3DsMax, AutoCad<br><br> 📫 How to reach me +91 8848890848, ashwingfx@gmail.com
 
 
 ## 🌐 Socials:
